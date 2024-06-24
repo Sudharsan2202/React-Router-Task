@@ -3,7 +3,7 @@
 body{
   margin:0 50px;
   padding: 10px;
-  font-family:cursive !important;
+  
   
     margin: auto;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -72,6 +72,7 @@ background-color: rgb(221, 218, 229);
 .card-title a {
   text-decoration: none;
   color:black;
+ 
   font-size: 25px;
   justify-content: center;
 }
